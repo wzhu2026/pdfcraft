@@ -358,6 +358,13 @@ Their project served as a significant inspiration and reference for our core log
 
 This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
+Cloudflare部署命令
+
+构建设置：Next.js(Statlc HTML Export)
+
+构建命令:npx next build
+
+构建输出目录：out
 ---
 
 <div align="center">
